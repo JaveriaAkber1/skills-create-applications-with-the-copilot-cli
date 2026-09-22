@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Trigger exercise Step 2 grading workflow.
 
 /**
  * calculator.js
